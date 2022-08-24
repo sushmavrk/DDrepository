@@ -6,7 +6,7 @@ public class Sample2 {
 	{
 		System.out.println("Github push command");
 		System.out.println("github commands");
-		
+		System.out.println("creating branch");
 		
 	}
 
